@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampk2001&label=Profile%20views&color=0e75b6&style=flat" alt="iampk2001" /> </p>
 
-<img align="right" alt="Coding" width="90" src="coding.webp">
 
 - 🔭 I’m currently working on **Full Stack Web development**
 
@@ -17,6 +16,8 @@
 - 📫 How to reach me **pavankulkarni1921@gmail.com**
 
 - ⚡ Fun fact **I am a cinephilia person & Love Anime😁**
+
+<img align="right" alt="Coding" height="150" width="150" src="coding.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
