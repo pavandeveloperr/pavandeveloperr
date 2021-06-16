@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Kulkarni</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">A passionate frontend web developer</h3>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -16,8 +16,6 @@
 - 📫 How to reach me **pavankulkarni1921@gmail.com**
 
 - ⚡ Fun fact **I am a cinephilia person & Love Anime😁**
-
-<img align="right" alt="Coding" height="250" width="250" src="coding.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
