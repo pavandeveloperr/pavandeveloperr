@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pavankulkarni1921@gmail.com**
 
-- ⚡ Fun fact **I Love Animes😁**
+- ⚡ Fun fact **I Love Anime😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
