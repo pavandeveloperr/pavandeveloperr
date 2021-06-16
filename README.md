@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am a cinephilia person & Love Anime😁**
 
-<img align="right" alt="Coding" height="350" width="350" src="coding.webp">
+<img align="right" alt="Coding" height="250" width="250" src="coding.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
