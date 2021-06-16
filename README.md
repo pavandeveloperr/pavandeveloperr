@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampk2001&label=Profile%20views&color=0e75b6&style=flat" alt="iampk2001" /> </p>
 
-<img src="coding.webp" width = "1000" height = "400">
+<img align="right" alt="Coding" width="400" src="coding.webp">
 
 - 🔭 I’m currently working on **Full Stack Web development**
 
