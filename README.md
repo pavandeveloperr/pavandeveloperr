@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampk2001&show_icons=true&locale=en" alt="iampk2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampk2001&" alt="iampk2001" /></p>
+
+![The Future belongs to the competent. Get Good, Get Better, Be the Best !](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=samuel&font=Redressed)
