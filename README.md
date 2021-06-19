@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampk2001&" alt="iampk2001" /></p>
 
-![qoute](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=samuel&font=Redressed)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=default&layout=default&font=default)
