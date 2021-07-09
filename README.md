@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pavan Kulkarni</h1>
-<h3 align="center">A passionate frontend web developer</h3>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -9,9 +8,9 @@
 
 - 🔭 I’m currently working on **Full Stack Web development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Data Structures & Algo**
 
--   💬 Ask me about **Web Development & DSA**
+-   💬 Ask me about **C++ & Web dev**
 
 - 📫 How to reach me **pavankulkarni1921@gmail.com**
 
@@ -31,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampk2001&" alt="iampk2001" /></p>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=default&layout=default&font=default)
