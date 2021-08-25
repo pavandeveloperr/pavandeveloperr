@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Pavan Kulkarni</h1>
 
+<h1 align="center"><img src="https://github.com/iampk2001/iampk2001/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/anushruti11/anushruti11/blob/master/Assets/Earth.gif" width="24px"> 
+<br>
+<h1 align="center">I'm Pavan <img src="https://github.com/iampk2001/iampk2001/Developer.gif" width="80px">
+</h1>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampk2001&label=Profile%20views&color=0e75b6&style=flat" alt="iampk2001" /> </p>
-
-- **OPEN SOURCE ENTHUSIAST**
-
+<p align="center">
+  <em>
+    <br><b> I'm still a learner</b>
+    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/iampk2001/iampk2001/Rocket.gif" width="18px">and a
+    <b>developer</b> <img src="https://github.com/iampk2001/iampk2001/Medal.gif" width="20px">&nbsp.
+  </em>
+</p>
 - 🌱 I’m currently learning **Data Structures & Algo**
 
 -   💬 Ask me about **C++ & Web dev**
