@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/pavandeveloperr/pavandeveloperr/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/pavandeveloperr/pavandeveloperr/Earth.gif" width="24px"></h1>
 <br>
-<h1 align="center">I'm Pavan <img src="https://github.com/pavandeveloperr/pavandeveloperr/Developer.gif" width="80px">
+<h1 align="center">I'm Pavan <img src="https://github.com/pavandeveloperr/pavandeveloperr/Hi.gif" width="80px">
 </h1>
 
 <p align="center">
