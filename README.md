@@ -1,7 +1,7 @@
-<h1 align="center"><div class="tenor-gif-embed" data-postid="23520343" data-share-method="host" data-aspect-ratio="1.02564" data-width="100%"><a href="https://tenor.com/view/hi-gif-23520343">Hi Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> width="30px">   Hi, there ! </h1>
-<h1 align="center">I'm Pavan <img src="https://github.com/pavandeveloperr/pavandeveloperr/Hi.gif" width="80px">
-</h1>
-
+<h3 align="center"> Hi There 
+   <img src=""https://raw.githubusercontent.com/pavandeveloperr/pavandeveloperr/assets/wave.gif">
+  
+  </br>
 <p align="center">
   <em>
     <br><b> I'm still a learner</b>
