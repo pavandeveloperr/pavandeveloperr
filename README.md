@@ -10,9 +10,9 @@
     <b>developer</b> &nbsp.
   </em>
 </p>
-   - 🌱 I’m currently learning <b>Full Stack Web development</b>
+  - 🌱 <b>I’m currently learning <em>Full Stack Web development</em> </b>
 
-- 💬 Ask me about **C++ & Web dev**
+- 👨‍💻 **Working on New Technologies**
 
 - 📫 How to reach me **pavank.bit@gmail.com**
 
