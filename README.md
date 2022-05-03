@@ -1,19 +1,20 @@
-<h3 align="center"> Hi There 
-   <img src=""https://raw.githubusercontent.com/pavandeveloperr/pavandeveloperr/assets/wave.gif">
+<h3 align="center"> Hi There 🖐️ <h3> 
+  <h4 align="center"> Happy to see you here. Let me walk through the magic 🧙‍♂️ I keep on doing. </h4>
+   
   
-  </br>
+  <hr>
 <p align="center">
   <em>
     <br><b> I'm still a learner</b>
-    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/pavandeveloperr/pavandeveloperr/Rocket.gif" width="18px">and a
-    <b>developer</b> <img src="https://github.com/pavandeveloperr/pavandeveloperr/Medal.gif" width="20px">&nbsp.
+    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> and a
+    <b>developer</b> &nbsp.
   </em>
 </p>
-- 🌱 I’m currently learning **Data Structures & Algo**
+   - 🌱 I’m currently learning <b>Full Stack Web development</b>
 
--   💬 Ask me about **C++ & Web dev**
+- 💬 Ask me about **C++ & Web dev**
 
-- 📫 How to reach me **pavankulkarni1921@gmail.com**
+- 📫 How to reach me **pavank.bit@gmail.com**
 
 - ⚡ Fun fact **I am a cinephilia person & Love Anime😁**
 
