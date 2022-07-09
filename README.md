@@ -8,9 +8,7 @@
     <b>developer</b> &nbsp.
   </em>
 </p>
-  - 🌱 <b>I’m currently learning <em>Full Stack Web development</em> </b>
-
-- 👨‍💻 Working on New Technologies
+  - 🌱 <b>I’m currently learning <em>Data Structures & Algo</em> </b>
 
 - 📫 How to reach me pavank.bit@gmail.com
 
