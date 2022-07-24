@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Pavan.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <h1> 
+<h1 align="center"> Hi! I'm Pavan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <h1> 
   <h4 align="center"> Ciao! Happy to see you here. Let me walk through the magic 🧙‍♂️ I keep on doing. </h4>
     <hr>
 <p align="center">
