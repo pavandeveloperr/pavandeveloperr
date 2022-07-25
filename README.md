@@ -8,7 +8,7 @@
     <b>developer</b> &nbsp.
   </em>
 </p>
-  - 🌱 <b>I’m currently learning <em>Data Structures & Algo</em> </b>
+  - 🌱 <b>I’m currently learning <em>JavaScript</em> </b>
 
 - 📫 How to reach me pavank.bit@gmail.com
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pavandeveloperr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavandeveloperr" height="30" width="40" /></a>
+<a href="https://twitter.com/pavanstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavandeveloperr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pavan-kulkarni-91293b212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/pavan-kulkarni-91293b212" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pavankulkarni192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pavankulkarni192" height="30" width="40" /></a>
 </p>
