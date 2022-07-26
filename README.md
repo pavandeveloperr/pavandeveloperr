@@ -22,6 +22,7 @@
 </p>
 
 
+##Languages & tools
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -35,14 +36,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavandeveloperr&" alt="pavandeveloperr" /></p>
-
-
-
-
-<p align="center">:round_pushpin: Profile views</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/pavandeveloperr/count.svg">
-</div>
 
 ## Highlights
 <div align="left">
@@ -60,5 +53,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavandeveloperr&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
 </div>
     
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pavandeveloperr&color=fff&line=fff&point=fff&area_color=21D4FD&bg_color=B721FF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
