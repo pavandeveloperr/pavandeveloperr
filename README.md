@@ -35,8 +35,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavandeveloperr&" alt="pavandeveloperr" /></p>
-
 ## Highlights
 <div align="left">
   <a href="https://github.com/pavandeveloperr/weather-app">
@@ -48,9 +46,9 @@
 ## Stats
 <div align="left">
   <a href="https://github.com/pavandeveloperr">
-    <img width="290px" height="180em" src="https://github-readme-stats.vercel.app/api?username=pavandeveloperr&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
+    <img width="330px" height="180em" src="https://github-readme-stats.vercel.app/api?username=pavandeveloperr&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
  
-<img width="250px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavandeveloperr&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
+<img width="280px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavandeveloperr&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
 </div>
     
 
