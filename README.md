@@ -119,8 +119,8 @@ Find out more about me & feel free to connect with me here:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=weather-app&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/pavandeveloperr/Guess-the-number">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=Guess-the-number&hide_border=true&theme=radical" />
+<a href="https://github.com/pavandeveloperr/realtimecovid19updatetable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=realtimecovid19updatetable&hide_border=true&theme=radical"/>
 </a>
 
 
