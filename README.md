@@ -2,7 +2,7 @@
 
 <a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
 
-* 📖 Pursuing my Bachelor's in Computer Applications from [Laxmi Venkatesh Desai College](https://lvdcollege.org/).  
+* 📖 Pursuing my Bachelor's in Computer Applications from [Laxmi Venkatesh Desai College](https://lvdcollege.com/).  
 
 * 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
 
