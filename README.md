@@ -1,7 +1,5 @@
 # Hey!! Great to see you here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-* 📖 Pursuing my Bachelor's in Computer Applications from [Laxmi Venkatesh Desai College](https://lvdcollege.com/).  
-
 * 🧑🏻‍💻 Tech enthusiast, Web3 & an open-source contributor. 
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
