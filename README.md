@@ -4,15 +4,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently learning [React](https://reactjs.org/).
-
-* 📰 Subscribe to my newsletter: 
-
-<p align="center">
-<a href="https://www.getrevue.co/profile/pavankulkarni">
-   <img src="https://img.shields.io/badge/Revue-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
-</a>
-</p>	
+* 💻 Currently learning Backend.
 
 Find out more about me & feel free to connect with me here:
 
