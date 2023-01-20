@@ -18,12 +18,9 @@ Find out more about me & feel free to connect with me here:
 	<a href="https://dev.to/pavandeveloperr">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-<!--         <a href="">
+	<a href="https://portfolio-pavankulkarni.vercel.app">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" /> 
-	</a>-->
-<!-- 	<a href="https://asmit.bio.link/">
-		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
-	</a> -->
+	</a> 
         <a href="mailto:pavank.bit@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
