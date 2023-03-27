@@ -2,9 +2,13 @@
 
 * 🧑🏻‍💻 Tech enthusiast, Web dev & an open-source contributor. 
 
-* 💡 Always open to collaborating on projects and innovative ideas. 
+* 🌐 I specialize in Frontend technologies, and I love learning new technologies and techniques to create even better web experiences.
 
-* 💻 Currently learning Backend.
+* 📚 When I'm not coding, you can find me reading tech blogs or working on personal projects.
+
+* 💡 Always open to collaborating on projects and innovative ideas.  
+
+* 📧 Want to collaborate on a project or just chat about web development? Feel free to contact me at pavank.bit@gmail.com.
 
 Find out more about me & feel free to connect with me here:
 
