@@ -98,12 +98,12 @@ Find out more about me & feel free to connect with me here:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=AnimeApp&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/pavandeveloperr/To-do-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=To-do-list&hide_border=true&theme=radical" />
+<a href="https://github.com/pavandeveloperr/cryptocurrency-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=cryptocurrency-dashboard&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/pavandeveloperr/weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=weather-app&hide_border=true&theme=radical" />
+<a href="https://github.com/pavandeveloperr/Snitch-Ecommerce-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=Snitch-Ecommerce-Website&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/pavandeveloperr/realtimecovid19updatetable">
