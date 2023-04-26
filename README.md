@@ -1,8 +1,8 @@
 # Hey!! Great to see you here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-* 🧑🏻‍💻 Tech enthusiast, Web dev & an open-source contributor. 
+* 🧑🏻‍💻 Tech enthusiast, Web dev & an open-source contributor.
 
-* 🌐 I specialize in Frontend technologies, and I love learning new technologies and techniques to create even better web experiences.
+* 🌐 I specialize in MERN Stack, and I love learning new technologies and techniques to create even better web experiences.
 
 * 📚 When I'm not coding, you can find me reading tech blogs or working on personal projects.
 
@@ -13,7 +13,7 @@
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/pavan-kulkarni-91293b212">
+	<a href="https://www.linkedin.com/in/pavankulkarnii">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://twitter.com/pavanstwt">
@@ -22,7 +22,7 @@ Find out more about me & feel free to connect with me here:
 	<a href="https://dev.to/pavandeveloperr">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-	<a href="https://portfolio-pavankulkarni.vercel.app">
+	<a href="https://pavan-portfolio-ten.vercel.app">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" /> 
 	</a> 
         <a href="mailto:pavank.bit@gmail.com">
