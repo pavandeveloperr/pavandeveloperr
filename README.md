@@ -13,19 +13,19 @@
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/pavankulkarnii">
+	<a href="https://www.linkedin.com/in/pavankulkarnii" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/pavanstwt">
+	<a href="https://twitter.com/pavanstwt" target="_blank">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://dev.to/pavandeveloperr">
+	<a href="https://dev.to/pavandeveloperr" target="_blank">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-	<a href="https://pavan-portfolio-ten.vercel.app">
+	<a href="https://pavan-portfolio-ten.vercel.app" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" /> 
 	</a> 
-        <a href="mailto:pavank.bit@gmail.com">
+        <a href="mailto:pavank.bit@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
