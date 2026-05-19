@@ -64,18 +64,6 @@ Full Stack Engineer with 3 years of production experience building AI-powered pr
 
 ---
 
-## 🔝 Featured Projects
-
-<a href="https://github.com/pavandeveloperr/mediquery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=mediquery&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/pavandeveloperr/Snitch-Ecommerce-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavandeveloperr&repo=Snitch-Ecommerce-Website&hide_border=true&theme=radical" />
-</a>
-
----
-
 ## 📫 Connect with me
 
 <p align="left">
