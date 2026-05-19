@@ -15,7 +15,7 @@ Full Stack Engineer with 3 years of production experience building AI-powered pr
 ## 💼 Experience
 
 **Full Stack Engineer @ Thinkhat Software** *(3 years)*
-- Built **NOKI** — a production AI medical scribing copilot that converts physician-patient conversations into structured clinical notes using LLM integrations
+- Built **[NOKI AI](https://app.noki.ai)** — a production AI medical scribing copilot that converts physician-patient conversations into structured clinical notes using LLM integrations
 - Developed EHR (Electronic Health Record) integrations handling real clinical workflows
 - Stack: React, Node.js, GCP, Pub/Sub, Stripe, Datadog, MongoDB
 
